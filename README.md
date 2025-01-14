@@ -29,13 +29,6 @@ Welcome to my GitHub profile! I’m a driven and versatile **Data Analyst** and 
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 
 ---
-
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vee2022&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vee2022&layout=compact&theme=radical)
-
----
-
 ## 📫 Let’s Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/victoria-ezinneamaka-a13b5050)  
 - 🌐 [Portfolio](https://github.com/Vee2022)  
