@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I’m a driven and versatile **Data Analyst** and 
 ## 🚀 Featured Projects  
 ### [Free Data Analysts Program](https://github.com/Vee2022/free-analysts-program)  
 - 🌟 **Description**: A community initiative that gathers real-world projects for inexperienced data analysts to practice and build portfolios.  
-- 🛠️ **Impact**: Empowered over [insert number] participants to land jobs by showcasing their work.  
+- 🛠️ **Impact**: Empowered over 50 participants to land jobs by showcasing their work.  
 
 ### [YouTube Virtual Internship Project](https://www.theforage.com/profile/8oBrwGbiAMew55pzK?ref=8oBrwGbiAMew55pzK)  
 - 🌟 **Description**: Worked as a financial analyst on research, forecasting, agreement completion, and reporting projects.  
